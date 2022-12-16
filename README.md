@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome!
+I'm pretty much a mid-level developer.
+I'm learning every so often I code.
+Previously I used: Python (basics), C# (basics with Unity), etc.
+In my opinion I can code in (but didn't for a long time): PHP.
+Every so often I use: JavaScript (browser-side only), Java.
+Commonly I use: Lua, C++.
 
 <!--
 **Lort533/Lort533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
