@@ -1,9 +1,8 @@
 ### Welcome!
 I'm pretty much a mid-level developer, learning every so often I code.<br>
 <br>
-Previously I used: **Python (basics), C# (basics with Unity), etc.**<br>
-In my opinion I can code in (but didn't for a long time): **PHP.**<br>
-Every so often I use: **JavaScript (browser-side only), Java.**<br>
+Previously I used: **Python (basics), Skript (Minecraft plugin)etc.**<br>
+Every so often I use: **JavaScript (browser-side only), Java, C# (Unity), PHP.**<br>
 Commonly I use: **Lua, C++.**
 
 <!--
