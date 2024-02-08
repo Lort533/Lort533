@@ -1,7 +1,7 @@
 ### Welcome!
 I'm pretty much a mid-level developer, learning every so often I code.<br>
 <br>
-Previously I used: **Python (basics), Skript (Minecraft plugin)etc.**<br>
+Previously I used: **Python (basics), Skript (Minecraft plugin), Assembly (absolute basics), etc.**<br>
 Every so often I use: **JavaScript (browser-side only), Java, C# (Unity), PHP.**<br>
 Commonly I use: **Lua, C++.**
 
