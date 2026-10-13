@@ -1,9 +1,9 @@
 ### Welcome!
 I'm pretty much a mid-level (not as a job title) developer, learning every so often I code.<br>
 <br>
-Previously I used: **Python (PyQt5, basic Flask), Skript (it's a Minecraft plugin), Assembly (absolute basics + basic software patching), TypeScript (used commonly for like 2 months), etc.**<br>
-Every so often I use: **JavaScript (front-end/extensions), Java (from Minecraft plugins to Android apps), C# (Unity/Windows Forms), PHP.**<br>
-Commonly I use: **Lua, C++ (for a lot of stuff, some WinAPI, Qt 6, some Arduino).**
+Previously I used: **Python (PyQt5, basic Flask), Skript (it's a Minecraft plugin), Assembly (absolute basics + basic software patching), TypeScript (used commonly for like 2 months), Lua (Luvit), C# (Unity/Windows Forms), etc.**<br>
+Every so often I use: **C++ (for a lot of stuff, some WinAPI, Qt 6, some Arduino), PHP, Rust (for games, and maybe more in the future).**<br>
+Commonly I use: **JavaScript (web apps/extensions), Java (from Minecraft plugins to Android apps).**
 
 <!--
 **Lort533/Lort533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
